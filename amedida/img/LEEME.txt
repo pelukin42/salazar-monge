@@ -1,0 +1,52 @@
+GUIA DE FOTOGRAFIAS — REPUESTOS SALAZAR Y MONGE (plan A Medida)
+================================================================
+
+ESTADO ACTUAL
+-------------
+Mientras el negocio no mande sus fotos, el sitio usa:
+
+- IMAGENES REFERENCIALES de Unsplash (licencia libre) en la portada, el
+  taller y el banner de pedido especial. Cada una lleva la etiqueta
+  "Imagen referencial" en una esquina.
+- La FACHADA DEL LOCAL sale de su propio sitio Wix. Es foto del negocio,
+  pero tiene baja resolucion y varios anos.
+
+Ninguna de esas imagenes vive en esta carpeta: se cargan desde internet.
+
+
+COMO REEMPLAZAR
+---------------
+Copiar la foto en esta carpeta (img/) con el NOMBRE EXACTO de la tabla.
+Aparece sola y la etiqueta "Imagen referencial" desaparece.
+No hay que tocar ni una linea de codigo.
+
+Formato: .jpg  |  Ancho recomendado: 1600 a 1920 px  |  Peso ideal: menos de 400 KB
+
+
+LO QUE FALTA
+------------
+hero.jpg              Portada (fondo, muy oscurecido).
+                      Horizontal. Mostrador con repuestos, bodega o el taller trabajando.
+
+taller.jpg            Seccion "Taller" (formato vertical 4:5).
+                      Un mecanico del taller trabajando en un vehiculo americano.
+
+pedido-especial.jpg   Banner "¿No encuentra su repuesto?".
+                      Horizontal. Repuestos en estante o una caja de pedido recien llegada.
+
+local.jpg             Seccion "Trayectoria", dentro del marco tipo polaroid (4:3).
+                      Fachada ACTUAL del local, de dia.
+
+Pedir los ORIGINALES del celular. Las capturas de WhatsApp o Facebook vienen
+recomprimidas y se ven borrosas. Evitar placas de vehiculos de clientes y
+caras de personas sin su permiso.
+
+
+OTROS ARCHIVOS DE ESTA CARPETA
+------------------------------
+favicon.svg   Icono de la pestana: engranaje con carro, inspirado en su logo.
+              Reemplazar si mandan el logo original.
+
+og.jpg        Imagen para compartir el enlace en WhatsApp y Facebook (1200x630).
+              Hecha sin fotos, solo con su marca. Al tener dominio, usar la
+              URL absoluta en las etiquetas og:image de index.html.

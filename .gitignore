@@ -1,0 +1,16 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# Work files
+cotizacion-*.html
+*.pdf
+logo-*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (si en el futuro hay build)
+node_modules/
+.next/
+dist/
